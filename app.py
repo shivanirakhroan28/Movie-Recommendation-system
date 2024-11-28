@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 import streamlit as st
 import pickle
 import pandas as pd
@@ -93,7 +92,6 @@ if st.button('Recommend'):
 
 
 
-=======
 import streamlit as st
 import pickle
 import pandas as pd
@@ -282,4 +280,4 @@ if st.button('Recommend'):
 
 
 
->>>>>>> 9de21c24368d47dff4e08d23aa536c1b53a0cbba
+
